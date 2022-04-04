@@ -1,0 +1,915 @@
+2022-04-03 16:40:43,672 DEBUG e.a.c.HelloWorld [main] Hello from Log4j 2
+2022-04-03 16:40:43,675 DEBUG e.a.c.HelloWorld [main] Example of a DEBUG 1
+2022-04-03 16:40:43,676 FATAL e.a.c.HelloWorld [main] Example of a FATAL 2
+2022-04-03 16:40:43,676 ERROR e.a.c.HelloWorld [main] Example of a ERROR 3
+2022-04-03 16:40:43,677 WARN e.a.c.HelloWorld [main] Example of a WARN 4
+2022-04-03 16:40:43,678 INFO e.a.c.HelloWorld [main] Example of a INFO 5
+2022-04-03 17:09:36,340 ERROR e.a.c.Exercise12_03 [main] {}
+java.lang.ArrayIndexOutOfBoundsException: Index 100 out of bounds for length 100
+	at edu.arapahoe.csc245.Exercise12_03.main(Exercise12_03.java:29) [classes/:?]
+2022-04-03 17:12:44,324 TRACE e.a.c.Exercise12_03 [main] Generated random int (2969) at index 0
+2022-04-03 17:12:44,326 TRACE e.a.c.Exercise12_03 [main] Generated random int (8273) at index 1
+2022-04-03 17:12:44,326 TRACE e.a.c.Exercise12_03 [main] Generated random int (4090) at index 2
+2022-04-03 17:12:44,326 TRACE e.a.c.Exercise12_03 [main] Generated random int (2778) at index 3
+2022-04-03 17:12:44,326 TRACE e.a.c.Exercise12_03 [main] Generated random int (3282) at index 4
+2022-04-03 17:12:44,326 TRACE e.a.c.Exercise12_03 [main] Generated random int (4681) at index 5
+2022-04-03 17:12:44,326 TRACE e.a.c.Exercise12_03 [main] Generated random int (4534) at index 6
+2022-04-03 17:12:44,327 TRACE e.a.c.Exercise12_03 [main] Generated random int (8848) at index 7
+2022-04-03 17:12:44,327 TRACE e.a.c.Exercise12_03 [main] Generated random int (1104) at index 8
+2022-04-03 17:12:44,327 TRACE e.a.c.Exercise12_03 [main] Generated random int (3684) at index 9
+2022-04-03 17:12:44,327 TRACE e.a.c.Exercise12_03 [main] Generated random int (436) at index 10
+2022-04-03 17:12:44,327 TRACE e.a.c.Exercise12_03 [main] Generated random int (6082) at index 11
+2022-04-03 17:12:44,327 TRACE e.a.c.Exercise12_03 [main] Generated random int (3543) at index 12
+2022-04-03 17:12:44,327 TRACE e.a.c.Exercise12_03 [main] Generated random int (7201) at index 13
+2022-04-03 17:12:44,327 TRACE e.a.c.Exercise12_03 [main] Generated random int (5673) at index 14
+2022-04-03 17:12:44,327 TRACE e.a.c.Exercise12_03 [main] Generated random int (6317) at index 15
+2022-04-03 17:12:44,328 TRACE e.a.c.Exercise12_03 [main] Generated random int (5495) at index 16
+2022-04-03 17:12:44,328 TRACE e.a.c.Exercise12_03 [main] Generated random int (1515) at index 17
+2022-04-03 17:12:44,328 TRACE e.a.c.Exercise12_03 [main] Generated random int (8072) at index 18
+2022-04-03 17:12:44,328 TRACE e.a.c.Exercise12_03 [main] Generated random int (1027) at index 19
+2022-04-03 17:12:44,328 TRACE e.a.c.Exercise12_03 [main] Generated random int (4622) at index 20
+2022-04-03 17:12:44,328 TRACE e.a.c.Exercise12_03 [main] Generated random int (6829) at index 21
+2022-04-03 17:12:44,328 TRACE e.a.c.Exercise12_03 [main] Generated random int (1672) at index 22
+2022-04-03 17:12:44,329 TRACE e.a.c.Exercise12_03 [main] Generated random int (8413) at index 23
+2022-04-03 17:12:44,329 TRACE e.a.c.Exercise12_03 [main] Generated random int (8541) at index 24
+2022-04-03 17:12:44,329 TRACE e.a.c.Exercise12_03 [main] Generated random int (4121) at index 25
+2022-04-03 17:12:44,329 TRACE e.a.c.Exercise12_03 [main] Generated random int (5138) at index 26
+2022-04-03 17:12:44,329 TRACE e.a.c.Exercise12_03 [main] Generated random int (5944) at index 27
+2022-04-03 17:12:44,329 TRACE e.a.c.Exercise12_03 [main] Generated random int (9562) at index 28
+2022-04-03 17:12:44,329 TRACE e.a.c.Exercise12_03 [main] Generated random int (1430) at index 29
+2022-04-03 17:12:44,329 TRACE e.a.c.Exercise12_03 [main] Generated random int (4679) at index 30
+2022-04-03 17:12:44,330 TRACE e.a.c.Exercise12_03 [main] Generated random int (9330) at index 31
+2022-04-03 17:12:44,330 TRACE e.a.c.Exercise12_03 [main] Generated random int (5242) at index 32
+2022-04-03 17:12:44,330 TRACE e.a.c.Exercise12_03 [main] Generated random int (9433) at index 33
+2022-04-03 17:12:44,330 TRACE e.a.c.Exercise12_03 [main] Generated random int (7908) at index 34
+2022-04-03 17:12:44,330 TRACE e.a.c.Exercise12_03 [main] Generated random int (8007) at index 35
+2022-04-03 17:12:44,330 TRACE e.a.c.Exercise12_03 [main] Generated random int (8839) at index 36
+2022-04-03 17:12:44,331 TRACE e.a.c.Exercise12_03 [main] Generated random int (9233) at index 37
+2022-04-03 17:12:44,331 TRACE e.a.c.Exercise12_03 [main] Generated random int (1056) at index 38
+2022-04-03 17:12:44,331 TRACE e.a.c.Exercise12_03 [main] Generated random int (6718) at index 39
+2022-04-03 17:12:44,331 TRACE e.a.c.Exercise12_03 [main] Generated random int (2361) at index 40
+2022-04-03 17:12:44,331 TRACE e.a.c.Exercise12_03 [main] Generated random int (3648) at index 41
+2022-04-03 17:12:44,331 TRACE e.a.c.Exercise12_03 [main] Generated random int (5700) at index 42
+2022-04-03 17:12:44,331 TRACE e.a.c.Exercise12_03 [main] Generated random int (2515) at index 43
+2022-04-03 17:12:44,331 TRACE e.a.c.Exercise12_03 [main] Generated random int (6297) at index 44
+2022-04-03 17:12:44,332 TRACE e.a.c.Exercise12_03 [main] Generated random int (6971) at index 45
+2022-04-03 17:12:44,332 TRACE e.a.c.Exercise12_03 [main] Generated random int (2756) at index 46
+2022-04-03 17:12:44,332 TRACE e.a.c.Exercise12_03 [main] Generated random int (6622) at index 47
+2022-04-03 17:12:44,332 TRACE e.a.c.Exercise12_03 [main] Generated random int (4357) at index 48
+2022-04-03 17:12:44,332 TRACE e.a.c.Exercise12_03 [main] Generated random int (7170) at index 49
+2022-04-03 17:12:44,332 TRACE e.a.c.Exercise12_03 [main] Generated random int (836) at index 50
+2022-04-03 17:12:44,332 TRACE e.a.c.Exercise12_03 [main] Generated random int (981) at index 51
+2022-04-03 17:12:44,332 TRACE e.a.c.Exercise12_03 [main] Generated random int (8607) at index 52
+2022-04-03 17:12:44,333 TRACE e.a.c.Exercise12_03 [main] Generated random int (8788) at index 53
+2022-04-03 17:12:44,333 TRACE e.a.c.Exercise12_03 [main] Generated random int (3315) at index 54
+2022-04-03 17:12:44,333 TRACE e.a.c.Exercise12_03 [main] Generated random int (37) at index 55
+2022-04-03 17:12:44,333 TRACE e.a.c.Exercise12_03 [main] Generated random int (196) at index 56
+2022-04-03 17:12:44,333 TRACE e.a.c.Exercise12_03 [main] Generated random int (4459) at index 57
+2022-04-03 17:12:44,333 TRACE e.a.c.Exercise12_03 [main] Generated random int (3411) at index 58
+2022-04-03 17:12:44,333 TRACE e.a.c.Exercise12_03 [main] Generated random int (9307) at index 59
+2022-04-03 17:12:44,333 TRACE e.a.c.Exercise12_03 [main] Generated random int (3589) at index 60
+2022-04-03 17:12:44,334 TRACE e.a.c.Exercise12_03 [main] Generated random int (7825) at index 61
+2022-04-03 17:12:44,334 TRACE e.a.c.Exercise12_03 [main] Generated random int (9448) at index 62
+2022-04-03 17:12:44,334 TRACE e.a.c.Exercise12_03 [main] Generated random int (3660) at index 63
+2022-04-03 17:12:44,334 TRACE e.a.c.Exercise12_03 [main] Generated random int (7651) at index 64
+2022-04-03 17:12:44,334 TRACE e.a.c.Exercise12_03 [main] Generated random int (962) at index 65
+2022-04-03 17:12:44,334 TRACE e.a.c.Exercise12_03 [main] Generated random int (3080) at index 66
+2022-04-03 17:12:44,334 TRACE e.a.c.Exercise12_03 [main] Generated random int (9850) at index 67
+2022-04-03 17:12:44,334 TRACE e.a.c.Exercise12_03 [main] Generated random int (5257) at index 68
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (4904) at index 69
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (1708) at index 70
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (9834) at index 71
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (4177) at index 72
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (2779) at index 73
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (2591) at index 74
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (3652) at index 75
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (5927) at index 76
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (1221) at index 77
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (204) at index 78
+2022-04-03 17:12:44,335 TRACE e.a.c.Exercise12_03 [main] Generated random int (3266) at index 79
+2022-04-03 17:12:44,336 TRACE e.a.c.Exercise12_03 [main] Generated random int (5975) at index 80
+2022-04-03 17:12:44,336 TRACE e.a.c.Exercise12_03 [main] Generated random int (7232) at index 81
+2022-04-03 17:12:44,336 TRACE e.a.c.Exercise12_03 [main] Generated random int (301) at index 82
+2022-04-03 17:12:44,336 TRACE e.a.c.Exercise12_03 [main] Generated random int (1636) at index 83
+2022-04-03 17:12:44,336 TRACE e.a.c.Exercise12_03 [main] Generated random int (8261) at index 84
+2022-04-03 17:12:44,336 TRACE e.a.c.Exercise12_03 [main] Generated random int (4462) at index 85
+2022-04-03 17:12:44,336 TRACE e.a.c.Exercise12_03 [main] Generated random int (3836) at index 86
+2022-04-03 17:12:44,336 TRACE e.a.c.Exercise12_03 [main] Generated random int (4524) at index 87
+2022-04-03 17:12:44,336 TRACE e.a.c.Exercise12_03 [main] Generated random int (9336) at index 88
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (5009) at index 89
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (1382) at index 90
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (6051) at index 91
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (2569) at index 92
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (257) at index 93
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (4043) at index 94
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (2870) at index 95
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (882) at index 96
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (7031) at index 97
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (9966) at index 98
+2022-04-03 17:12:44,337 TRACE e.a.c.Exercise12_03 [main] Generated random int (5951) at index 99
+2022-04-03 17:17:36,826 TRACE e.a.c.Exercise12_03 [main] Generated random int 1434 at 0
+2022-04-03 17:17:36,828 TRACE e.a.c.Exercise12_03 [main] Generated random int 5074 at 1
+2022-04-03 17:17:36,828 TRACE e.a.c.Exercise12_03 [main] Generated random int 1014 at 2
+2022-04-03 17:17:36,829 TRACE e.a.c.Exercise12_03 [main] Generated random int 5432 at 3
+2022-04-03 17:17:36,829 TRACE e.a.c.Exercise12_03 [main] Generated random int 3588 at 4
+2022-04-03 17:17:36,829 TRACE e.a.c.Exercise12_03 [main] Generated random int 6461 at 5
+2022-04-03 17:17:36,829 TRACE e.a.c.Exercise12_03 [main] Generated random int 2801 at 6
+2022-04-03 17:17:36,829 TRACE e.a.c.Exercise12_03 [main] Generated random int 3190 at 7
+2022-04-03 17:17:36,829 TRACE e.a.c.Exercise12_03 [main] Generated random int 4907 at 8
+2022-04-03 17:17:36,829 TRACE e.a.c.Exercise12_03 [main] Generated random int 5523 at 9
+2022-04-03 17:17:36,830 TRACE e.a.c.Exercise12_03 [main] Generated random int 9830 at 10
+2022-04-03 17:17:36,830 TRACE e.a.c.Exercise12_03 [main] Generated random int 7566 at 11
+2022-04-03 17:17:36,830 TRACE e.a.c.Exercise12_03 [main] Generated random int 5692 at 12
+2022-04-03 17:17:36,830 TRACE e.a.c.Exercise12_03 [main] Generated random int 4744 at 13
+2022-04-03 17:17:36,830 TRACE e.a.c.Exercise12_03 [main] Generated random int 7097 at 14
+2022-04-03 17:17:36,830 TRACE e.a.c.Exercise12_03 [main] Generated random int 9340 at 15
+2022-04-03 17:17:36,830 TRACE e.a.c.Exercise12_03 [main] Generated random int 8976 at 16
+2022-04-03 17:17:36,830 TRACE e.a.c.Exercise12_03 [main] Generated random int 9926 at 17
+2022-04-03 17:17:36,830 TRACE e.a.c.Exercise12_03 [main] Generated random int 7930 at 18
+2022-04-03 17:17:36,831 TRACE e.a.c.Exercise12_03 [main] Generated random int 964 at 19
+2022-04-03 17:17:36,831 TRACE e.a.c.Exercise12_03 [main] Generated random int 1089 at 20
+2022-04-03 17:17:36,831 TRACE e.a.c.Exercise12_03 [main] Generated random int 5911 at 21
+2022-04-03 17:17:36,831 TRACE e.a.c.Exercise12_03 [main] Generated random int 5529 at 22
+2022-04-03 17:17:36,831 TRACE e.a.c.Exercise12_03 [main] Generated random int 4861 at 23
+2022-04-03 17:17:36,831 TRACE e.a.c.Exercise12_03 [main] Generated random int 6563 at 24
+2022-04-03 17:17:36,831 TRACE e.a.c.Exercise12_03 [main] Generated random int 6710 at 25
+2022-04-03 17:17:36,831 TRACE e.a.c.Exercise12_03 [main] Generated random int 497 at 26
+2022-04-03 17:17:36,832 TRACE e.a.c.Exercise12_03 [main] Generated random int 5796 at 27
+2022-04-03 17:17:36,832 TRACE e.a.c.Exercise12_03 [main] Generated random int 1784 at 28
+2022-04-03 17:17:36,832 TRACE e.a.c.Exercise12_03 [main] Generated random int 4812 at 29
+2022-04-03 17:17:36,832 TRACE e.a.c.Exercise12_03 [main] Generated random int 8558 at 30
+2022-04-03 17:17:36,832 TRACE e.a.c.Exercise12_03 [main] Generated random int 4584 at 31
+2022-04-03 17:17:36,832 TRACE e.a.c.Exercise12_03 [main] Generated random int 7133 at 32
+2022-04-03 17:17:36,832 TRACE e.a.c.Exercise12_03 [main] Generated random int 8290 at 33
+2022-04-03 17:17:36,832 TRACE e.a.c.Exercise12_03 [main] Generated random int 670 at 34
+2022-04-03 17:17:36,832 TRACE e.a.c.Exercise12_03 [main] Generated random int 3179 at 35
+2022-04-03 17:17:36,833 TRACE e.a.c.Exercise12_03 [main] Generated random int 460 at 36
+2022-04-03 17:17:36,833 TRACE e.a.c.Exercise12_03 [main] Generated random int 8450 at 37
+2022-04-03 17:17:36,833 TRACE e.a.c.Exercise12_03 [main] Generated random int 8513 at 38
+2022-04-03 17:17:36,833 TRACE e.a.c.Exercise12_03 [main] Generated random int 9193 at 39
+2022-04-03 17:17:36,833 TRACE e.a.c.Exercise12_03 [main] Generated random int 5719 at 40
+2022-04-03 17:17:36,833 TRACE e.a.c.Exercise12_03 [main] Generated random int 5259 at 41
+2022-04-03 17:17:36,833 TRACE e.a.c.Exercise12_03 [main] Generated random int 1947 at 42
+2022-04-03 17:17:36,833 TRACE e.a.c.Exercise12_03 [main] Generated random int 1309 at 43
+2022-04-03 17:17:36,833 TRACE e.a.c.Exercise12_03 [main] Generated random int 9329 at 44
+2022-04-03 17:17:36,834 TRACE e.a.c.Exercise12_03 [main] Generated random int 2535 at 45
+2022-04-03 17:17:36,834 TRACE e.a.c.Exercise12_03 [main] Generated random int 1437 at 46
+2022-04-03 17:17:36,834 TRACE e.a.c.Exercise12_03 [main] Generated random int 5712 at 47
+2022-04-03 17:17:36,834 TRACE e.a.c.Exercise12_03 [main] Generated random int 3401 at 48
+2022-04-03 17:17:36,834 TRACE e.a.c.Exercise12_03 [main] Generated random int 9997 at 49
+2022-04-03 17:17:36,834 TRACE e.a.c.Exercise12_03 [main] Generated random int 7685 at 50
+2022-04-03 17:17:36,834 TRACE e.a.c.Exercise12_03 [main] Generated random int 7654 at 51
+2022-04-03 17:17:36,834 TRACE e.a.c.Exercise12_03 [main] Generated random int 9366 at 52
+2022-04-03 17:17:36,835 TRACE e.a.c.Exercise12_03 [main] Generated random int 4654 at 53
+2022-04-03 17:17:36,835 TRACE e.a.c.Exercise12_03 [main] Generated random int 2752 at 54
+2022-04-03 17:17:36,835 TRACE e.a.c.Exercise12_03 [main] Generated random int 1580 at 55
+2022-04-03 17:17:36,835 TRACE e.a.c.Exercise12_03 [main] Generated random int 7724 at 56
+2022-04-03 17:17:36,835 TRACE e.a.c.Exercise12_03 [main] Generated random int 9728 at 57
+2022-04-03 17:17:36,835 TRACE e.a.c.Exercise12_03 [main] Generated random int 1777 at 58
+2022-04-03 17:17:36,835 TRACE e.a.c.Exercise12_03 [main] Generated random int 7877 at 59
+2022-04-03 17:17:36,836 TRACE e.a.c.Exercise12_03 [main] Generated random int 9650 at 60
+2022-04-03 17:17:36,836 TRACE e.a.c.Exercise12_03 [main] Generated random int 5347 at 61
+2022-04-03 17:17:36,836 TRACE e.a.c.Exercise12_03 [main] Generated random int 2116 at 62
+2022-04-03 17:17:36,836 TRACE e.a.c.Exercise12_03 [main] Generated random int 4204 at 63
+2022-04-03 17:17:36,836 TRACE e.a.c.Exercise12_03 [main] Generated random int 4019 at 64
+2022-04-03 17:17:36,836 TRACE e.a.c.Exercise12_03 [main] Generated random int 1557 at 65
+2022-04-03 17:17:36,836 TRACE e.a.c.Exercise12_03 [main] Generated random int 7142 at 66
+2022-04-03 17:17:36,836 TRACE e.a.c.Exercise12_03 [main] Generated random int 4641 at 67
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 9034 at 68
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 873 at 69
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 5305 at 70
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 432 at 71
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 1108 at 72
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 4543 at 73
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 1091 at 74
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 1969 at 75
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 4884 at 76
+2022-04-03 17:17:36,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 3968 at 77
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 3480 at 78
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 2847 at 79
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 7380 at 80
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 6334 at 81
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 9206 at 82
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 3320 at 83
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 6103 at 84
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 1371 at 85
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 2686 at 86
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 2287 at 87
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 5694 at 88
+2022-04-03 17:17:36,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 4410 at 89
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 1804 at 90
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 4049 at 91
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 166 at 92
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 9410 at 93
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 8944 at 94
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 8532 at 95
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 8108 at 96
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 4462 at 97
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 9610 at 98
+2022-04-03 17:17:36,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 1400 at 99
+2022-04-03 17:17:40,932 ERROR e.a.c.Exercise12_03 [main] Input out of bounds: [edu.arapahoe.csc245.Exercise12_03.main(Exercise12_03.java:42)]
+2022-04-03 17:18:27,485 TRACE e.a.c.Exercise12_03 [main] Generated random int 6675 at 0
+2022-04-03 17:18:27,488 TRACE e.a.c.Exercise12_03 [main] Generated random int 6238 at 1
+2022-04-03 17:18:27,488 TRACE e.a.c.Exercise12_03 [main] Generated random int 1998 at 2
+2022-04-03 17:18:27,488 TRACE e.a.c.Exercise12_03 [main] Generated random int 8856 at 3
+2022-04-03 17:18:27,488 TRACE e.a.c.Exercise12_03 [main] Generated random int 7828 at 4
+2022-04-03 17:18:27,488 TRACE e.a.c.Exercise12_03 [main] Generated random int 695 at 5
+2022-04-03 17:18:27,489 TRACE e.a.c.Exercise12_03 [main] Generated random int 6515 at 6
+2022-04-03 17:18:27,489 TRACE e.a.c.Exercise12_03 [main] Generated random int 7503 at 7
+2022-04-03 17:18:27,490 TRACE e.a.c.Exercise12_03 [main] Generated random int 2587 at 8
+2022-04-03 17:18:27,490 TRACE e.a.c.Exercise12_03 [main] Generated random int 5597 at 9
+2022-04-03 17:18:27,490 TRACE e.a.c.Exercise12_03 [main] Generated random int 7100 at 10
+2022-04-03 17:18:27,490 TRACE e.a.c.Exercise12_03 [main] Generated random int 4134 at 11
+2022-04-03 17:18:27,490 TRACE e.a.c.Exercise12_03 [main] Generated random int 5755 at 12
+2022-04-03 17:18:27,490 TRACE e.a.c.Exercise12_03 [main] Generated random int 1186 at 13
+2022-04-03 17:18:27,491 TRACE e.a.c.Exercise12_03 [main] Generated random int 799 at 14
+2022-04-03 17:18:27,491 TRACE e.a.c.Exercise12_03 [main] Generated random int 5795 at 15
+2022-04-03 17:18:27,491 TRACE e.a.c.Exercise12_03 [main] Generated random int 2182 at 16
+2022-04-03 17:18:27,491 TRACE e.a.c.Exercise12_03 [main] Generated random int 1438 at 17
+2022-04-03 17:18:27,491 TRACE e.a.c.Exercise12_03 [main] Generated random int 6735 at 18
+2022-04-03 17:18:27,491 TRACE e.a.c.Exercise12_03 [main] Generated random int 3888 at 19
+2022-04-03 17:18:27,492 TRACE e.a.c.Exercise12_03 [main] Generated random int 7171 at 20
+2022-04-03 17:18:27,492 TRACE e.a.c.Exercise12_03 [main] Generated random int 4723 at 21
+2022-04-03 17:18:27,492 TRACE e.a.c.Exercise12_03 [main] Generated random int 2222 at 22
+2022-04-03 17:18:27,492 TRACE e.a.c.Exercise12_03 [main] Generated random int 8620 at 23
+2022-04-03 17:18:27,492 TRACE e.a.c.Exercise12_03 [main] Generated random int 9877 at 24
+2022-04-03 17:18:27,493 TRACE e.a.c.Exercise12_03 [main] Generated random int 9976 at 25
+2022-04-03 17:18:27,493 TRACE e.a.c.Exercise12_03 [main] Generated random int 2064 at 26
+2022-04-03 17:18:27,493 TRACE e.a.c.Exercise12_03 [main] Generated random int 347 at 27
+2022-04-03 17:18:27,493 TRACE e.a.c.Exercise12_03 [main] Generated random int 8690 at 28
+2022-04-03 17:18:27,493 TRACE e.a.c.Exercise12_03 [main] Generated random int 26 at 29
+2022-04-03 17:18:27,494 TRACE e.a.c.Exercise12_03 [main] Generated random int 4125 at 30
+2022-04-03 17:18:27,494 TRACE e.a.c.Exercise12_03 [main] Generated random int 3162 at 31
+2022-04-03 17:18:27,495 TRACE e.a.c.Exercise12_03 [main] Generated random int 215 at 32
+2022-04-03 17:18:27,495 TRACE e.a.c.Exercise12_03 [main] Generated random int 8642 at 33
+2022-04-03 17:18:27,495 TRACE e.a.c.Exercise12_03 [main] Generated random int 7058 at 34
+2022-04-03 17:18:27,496 TRACE e.a.c.Exercise12_03 [main] Generated random int 7349 at 35
+2022-04-03 17:18:27,496 TRACE e.a.c.Exercise12_03 [main] Generated random int 8990 at 36
+2022-04-03 17:18:27,496 TRACE e.a.c.Exercise12_03 [main] Generated random int 8137 at 37
+2022-04-03 17:18:27,496 TRACE e.a.c.Exercise12_03 [main] Generated random int 6754 at 38
+2022-04-03 17:18:27,496 TRACE e.a.c.Exercise12_03 [main] Generated random int 9034 at 39
+2022-04-03 17:18:27,497 TRACE e.a.c.Exercise12_03 [main] Generated random int 3336 at 40
+2022-04-03 17:18:27,497 TRACE e.a.c.Exercise12_03 [main] Generated random int 9877 at 41
+2022-04-03 17:18:27,497 TRACE e.a.c.Exercise12_03 [main] Generated random int 6462 at 42
+2022-04-03 17:18:27,497 TRACE e.a.c.Exercise12_03 [main] Generated random int 7291 at 43
+2022-04-03 17:18:27,498 TRACE e.a.c.Exercise12_03 [main] Generated random int 3860 at 44
+2022-04-03 17:18:27,498 TRACE e.a.c.Exercise12_03 [main] Generated random int 953 at 45
+2022-04-03 17:18:27,498 TRACE e.a.c.Exercise12_03 [main] Generated random int 1851 at 46
+2022-04-03 17:18:27,498 TRACE e.a.c.Exercise12_03 [main] Generated random int 1249 at 47
+2022-04-03 17:18:27,498 TRACE e.a.c.Exercise12_03 [main] Generated random int 5023 at 48
+2022-04-03 17:18:27,498 TRACE e.a.c.Exercise12_03 [main] Generated random int 6443 at 49
+2022-04-03 17:18:27,498 TRACE e.a.c.Exercise12_03 [main] Generated random int 6314 at 50
+2022-04-03 17:18:27,498 TRACE e.a.c.Exercise12_03 [main] Generated random int 2331 at 51
+2022-04-03 17:18:27,499 TRACE e.a.c.Exercise12_03 [main] Generated random int 6950 at 52
+2022-04-03 17:18:27,499 TRACE e.a.c.Exercise12_03 [main] Generated random int 8163 at 53
+2022-04-03 17:18:27,499 TRACE e.a.c.Exercise12_03 [main] Generated random int 3718 at 54
+2022-04-03 17:18:27,499 TRACE e.a.c.Exercise12_03 [main] Generated random int 9661 at 55
+2022-04-03 17:18:27,500 TRACE e.a.c.Exercise12_03 [main] Generated random int 4164 at 56
+2022-04-03 17:18:27,500 TRACE e.a.c.Exercise12_03 [main] Generated random int 7659 at 57
+2022-04-03 17:18:27,501 TRACE e.a.c.Exercise12_03 [main] Generated random int 5494 at 58
+2022-04-03 17:18:27,501 TRACE e.a.c.Exercise12_03 [main] Generated random int 9879 at 59
+2022-04-03 17:18:27,501 TRACE e.a.c.Exercise12_03 [main] Generated random int 295 at 60
+2022-04-03 17:18:27,502 TRACE e.a.c.Exercise12_03 [main] Generated random int 3257 at 61
+2022-04-03 17:18:27,502 TRACE e.a.c.Exercise12_03 [main] Generated random int 6485 at 62
+2022-04-03 17:18:27,502 TRACE e.a.c.Exercise12_03 [main] Generated random int 6145 at 63
+2022-04-03 17:18:27,502 TRACE e.a.c.Exercise12_03 [main] Generated random int 2995 at 64
+2022-04-03 17:18:27,503 TRACE e.a.c.Exercise12_03 [main] Generated random int 8469 at 65
+2022-04-03 17:18:27,504 TRACE e.a.c.Exercise12_03 [main] Generated random int 9264 at 66
+2022-04-03 17:18:27,504 TRACE e.a.c.Exercise12_03 [main] Generated random int 4924 at 67
+2022-04-03 17:18:27,504 TRACE e.a.c.Exercise12_03 [main] Generated random int 1231 at 68
+2022-04-03 17:18:27,504 TRACE e.a.c.Exercise12_03 [main] Generated random int 1761 at 69
+2022-04-03 17:18:27,505 TRACE e.a.c.Exercise12_03 [main] Generated random int 9805 at 70
+2022-04-03 17:18:27,505 TRACE e.a.c.Exercise12_03 [main] Generated random int 3328 at 71
+2022-04-03 17:18:27,506 TRACE e.a.c.Exercise12_03 [main] Generated random int 7966 at 72
+2022-04-03 17:18:27,506 TRACE e.a.c.Exercise12_03 [main] Generated random int 5766 at 73
+2022-04-03 17:18:27,506 TRACE e.a.c.Exercise12_03 [main] Generated random int 8299 at 74
+2022-04-03 17:18:27,507 TRACE e.a.c.Exercise12_03 [main] Generated random int 4229 at 75
+2022-04-03 17:18:27,507 TRACE e.a.c.Exercise12_03 [main] Generated random int 4799 at 76
+2022-04-03 17:18:27,507 TRACE e.a.c.Exercise12_03 [main] Generated random int 7378 at 77
+2022-04-03 17:18:27,507 TRACE e.a.c.Exercise12_03 [main] Generated random int 7705 at 78
+2022-04-03 17:18:27,507 TRACE e.a.c.Exercise12_03 [main] Generated random int 1137 at 79
+2022-04-03 17:18:27,507 TRACE e.a.c.Exercise12_03 [main] Generated random int 1580 at 80
+2022-04-03 17:18:27,507 TRACE e.a.c.Exercise12_03 [main] Generated random int 8877 at 81
+2022-04-03 17:18:27,507 TRACE e.a.c.Exercise12_03 [main] Generated random int 9165 at 82
+2022-04-03 17:18:27,508 TRACE e.a.c.Exercise12_03 [main] Generated random int 9938 at 83
+2022-04-03 17:18:27,508 TRACE e.a.c.Exercise12_03 [main] Generated random int 3235 at 84
+2022-04-03 17:18:27,508 TRACE e.a.c.Exercise12_03 [main] Generated random int 4175 at 85
+2022-04-03 17:18:27,508 TRACE e.a.c.Exercise12_03 [main] Generated random int 7818 at 86
+2022-04-03 17:18:27,508 TRACE e.a.c.Exercise12_03 [main] Generated random int 9969 at 87
+2022-04-03 17:18:27,508 TRACE e.a.c.Exercise12_03 [main] Generated random int 8067 at 88
+2022-04-03 17:18:27,508 TRACE e.a.c.Exercise12_03 [main] Generated random int 3636 at 89
+2022-04-03 17:18:27,508 TRACE e.a.c.Exercise12_03 [main] Generated random int 4736 at 90
+2022-04-03 17:18:27,509 TRACE e.a.c.Exercise12_03 [main] Generated random int 2631 at 91
+2022-04-03 17:18:27,509 TRACE e.a.c.Exercise12_03 [main] Generated random int 6666 at 92
+2022-04-03 17:18:27,509 TRACE e.a.c.Exercise12_03 [main] Generated random int 5507 at 93
+2022-04-03 17:18:27,509 TRACE e.a.c.Exercise12_03 [main] Generated random int 722 at 94
+2022-04-03 17:18:27,509 TRACE e.a.c.Exercise12_03 [main] Generated random int 1766 at 95
+2022-04-03 17:18:27,509 TRACE e.a.c.Exercise12_03 [main] Generated random int 8234 at 96
+2022-04-03 17:18:27,510 TRACE e.a.c.Exercise12_03 [main] Generated random int 1940 at 97
+2022-04-03 17:18:27,510 TRACE e.a.c.Exercise12_03 [main] Generated random int 5517 at 98
+2022-04-03 17:18:27,510 TRACE e.a.c.Exercise12_03 [main] Generated random int 6363 at 99
+2022-04-03 17:18:29,649 ERROR e.a.c.Exercise12_03 [main] Input out of bounds! java.lang.ArrayIndexOutOfBoundsException: Index 100 out of bounds for length 100
+2022-04-03 17:19:10,834 TRACE e.a.c.Exercise12_03 [main] Generated random int 4848 at 0
+2022-04-03 17:19:10,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 6372 at 1
+2022-04-03 17:19:10,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 6537 at 2
+2022-04-03 17:19:10,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 5575 at 3
+2022-04-03 17:19:10,837 TRACE e.a.c.Exercise12_03 [main] Generated random int 5451 at 4
+2022-04-03 17:19:10,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 810 at 5
+2022-04-03 17:19:10,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 7243 at 6
+2022-04-03 17:19:10,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 3230 at 7
+2022-04-03 17:19:10,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 9048 at 8
+2022-04-03 17:19:10,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 7098 at 9
+2022-04-03 17:19:10,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 6455 at 10
+2022-04-03 17:19:10,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 9556 at 11
+2022-04-03 17:19:10,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 1179 at 12
+2022-04-03 17:19:10,838 TRACE e.a.c.Exercise12_03 [main] Generated random int 6215 at 13
+2022-04-03 17:19:10,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 7258 at 14
+2022-04-03 17:19:10,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 4927 at 15
+2022-04-03 17:19:10,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 1797 at 16
+2022-04-03 17:19:10,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 7421 at 17
+2022-04-03 17:19:10,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 1856 at 18
+2022-04-03 17:19:10,839 TRACE e.a.c.Exercise12_03 [main] Generated random int 2298 at 19
+2022-04-03 17:19:10,840 TRACE e.a.c.Exercise12_03 [main] Generated random int 9882 at 20
+2022-04-03 17:19:10,840 TRACE e.a.c.Exercise12_03 [main] Generated random int 2216 at 21
+2022-04-03 17:19:10,840 TRACE e.a.c.Exercise12_03 [main] Generated random int 2183 at 22
+2022-04-03 17:19:10,840 TRACE e.a.c.Exercise12_03 [main] Generated random int 6156 at 23
+2022-04-03 17:19:10,840 TRACE e.a.c.Exercise12_03 [main] Generated random int 4050 at 24
+2022-04-03 17:19:10,840 TRACE e.a.c.Exercise12_03 [main] Generated random int 3766 at 25
+2022-04-03 17:19:10,840 TRACE e.a.c.Exercise12_03 [main] Generated random int 2 at 26
+2022-04-03 17:19:10,841 TRACE e.a.c.Exercise12_03 [main] Generated random int 1414 at 27
+2022-04-03 17:19:10,841 TRACE e.a.c.Exercise12_03 [main] Generated random int 1978 at 28
+2022-04-03 17:19:10,841 TRACE e.a.c.Exercise12_03 [main] Generated random int 8416 at 29
+2022-04-03 17:19:10,841 TRACE e.a.c.Exercise12_03 [main] Generated random int 3494 at 30
+2022-04-03 17:19:10,841 TRACE e.a.c.Exercise12_03 [main] Generated random int 768 at 31
+2022-04-03 17:19:10,841 TRACE e.a.c.Exercise12_03 [main] Generated random int 5506 at 32
+2022-04-03 17:19:10,841 TRACE e.a.c.Exercise12_03 [main] Generated random int 8473 at 33
+2022-04-03 17:19:10,842 TRACE e.a.c.Exercise12_03 [main] Generated random int 4043 at 34
+2022-04-03 17:19:10,842 TRACE e.a.c.Exercise12_03 [main] Generated random int 466 at 35
+2022-04-03 17:19:10,842 TRACE e.a.c.Exercise12_03 [main] Generated random int 190 at 36
+2022-04-03 17:19:10,842 TRACE e.a.c.Exercise12_03 [main] Generated random int 8365 at 37
+2022-04-03 17:19:10,842 TRACE e.a.c.Exercise12_03 [main] Generated random int 6486 at 38
+2022-04-03 17:19:10,842 TRACE e.a.c.Exercise12_03 [main] Generated random int 1297 at 39
+2022-04-03 17:19:10,842 TRACE e.a.c.Exercise12_03 [main] Generated random int 7765 at 40
+2022-04-03 17:19:10,842 TRACE e.a.c.Exercise12_03 [main] Generated random int 9476 at 41
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 8437 at 42
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 3696 at 43
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 7482 at 44
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 2494 at 45
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 9465 at 46
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 3311 at 47
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 7613 at 48
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 9944 at 49
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 8881 at 50
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 6107 at 51
+2022-04-03 17:19:10,843 TRACE e.a.c.Exercise12_03 [main] Generated random int 1555 at 52
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 5722 at 53
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 1693 at 54
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 148 at 55
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 3903 at 56
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 2921 at 57
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 5859 at 58
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 4571 at 59
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 622 at 60
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 6006 at 61
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 439 at 62
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 4932 at 63
+2022-04-03 17:19:10,844 TRACE e.a.c.Exercise12_03 [main] Generated random int 4031 at 64
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 8488 at 65
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 3404 at 66
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 8116 at 67
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 7686 at 68
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 2637 at 69
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 9978 at 70
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 9300 at 71
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 8452 at 72
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 3513 at 73
+2022-04-03 17:19:10,845 TRACE e.a.c.Exercise12_03 [main] Generated random int 7175 at 74
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 8070 at 75
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 3056 at 76
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 5571 at 77
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 7900 at 78
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 750 at 79
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 4249 at 80
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 6507 at 81
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 8456 at 82
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 1211 at 83
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 7323 at 84
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 9571 at 85
+2022-04-03 17:19:10,846 TRACE e.a.c.Exercise12_03 [main] Generated random int 6569 at 86
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 3015 at 87
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 1195 at 88
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 2632 at 89
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 3173 at 90
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 1598 at 91
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 9512 at 92
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 9466 at 93
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 99 at 94
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 6388 at 95
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 6313 at 96
+2022-04-03 17:19:10,847 TRACE e.a.c.Exercise12_03 [main] Generated random int 6401 at 97
+2022-04-03 17:19:10,848 TRACE e.a.c.Exercise12_03 [main] Generated random int 7535 at 98
+2022-04-03 17:19:10,848 TRACE e.a.c.Exercise12_03 [main] Generated random int 9244 at 99
+2022-04-03 17:19:19,259 ERROR e.a.c.Exercise12_03 [main] Input out of bounds! java.lang.ArrayIndexOutOfBoundsException: Index 9999 out of bounds for length 100
+2022-04-03 17:27:26,447 TRACE e.a.c.Exercise12_03 [main] Generated random int 9020 at 0
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 681 at 1
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 67 at 2
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 7239 at 3
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 5834 at 4
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 2302 at 5
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 7346 at 6
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 987 at 7
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 7367 at 8
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 8353 at 9
+2022-04-03 17:27:26,450 TRACE e.a.c.Exercise12_03 [main] Generated random int 4465 at 10
+2022-04-03 17:27:26,451 TRACE e.a.c.Exercise12_03 [main] Generated random int 92 at 11
+2022-04-03 17:27:26,451 TRACE e.a.c.Exercise12_03 [main] Generated random int 9897 at 12
+2022-04-03 17:27:26,451 TRACE e.a.c.Exercise12_03 [main] Generated random int 2786 at 13
+2022-04-03 17:27:26,451 TRACE e.a.c.Exercise12_03 [main] Generated random int 4615 at 14
+2022-04-03 17:27:26,451 TRACE e.a.c.Exercise12_03 [main] Generated random int 8693 at 15
+2022-04-03 17:27:26,451 TRACE e.a.c.Exercise12_03 [main] Generated random int 2788 at 16
+2022-04-03 17:27:26,451 TRACE e.a.c.Exercise12_03 [main] Generated random int 1304 at 17
+2022-04-03 17:27:26,451 TRACE e.a.c.Exercise12_03 [main] Generated random int 8564 at 18
+2022-04-03 17:27:26,451 TRACE e.a.c.Exercise12_03 [main] Generated random int 1767 at 19
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 2525 at 20
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 8344 at 21
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 1931 at 22
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 3260 at 23
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 5463 at 24
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 4512 at 25
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 5068 at 26
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 6691 at 27
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 8565 at 28
+2022-04-03 17:27:26,452 TRACE e.a.c.Exercise12_03 [main] Generated random int 865 at 29
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 944 at 30
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 1548 at 31
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 6598 at 32
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 391 at 33
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 805 at 34
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 4226 at 35
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 6325 at 36
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 6382 at 37
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 9598 at 38
+2022-04-03 17:27:26,453 TRACE e.a.c.Exercise12_03 [main] Generated random int 7947 at 39
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 3057 at 40
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 1979 at 41
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 3130 at 42
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 2131 at 43
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 2624 at 44
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 5142 at 45
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 6776 at 46
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 8052 at 47
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 2283 at 48
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 8493 at 49
+2022-04-03 17:27:26,454 TRACE e.a.c.Exercise12_03 [main] Generated random int 1179 at 50
+2022-04-03 17:27:26,455 TRACE e.a.c.Exercise12_03 [main] Generated random int 4209 at 51
+2022-04-03 17:27:26,455 TRACE e.a.c.Exercise12_03 [main] Generated random int 7369 at 52
+2022-04-03 17:27:26,455 TRACE e.a.c.Exercise12_03 [main] Generated random int 4081 at 53
+2022-04-03 17:27:26,455 TRACE e.a.c.Exercise12_03 [main] Generated random int 3829 at 54
+2022-04-03 17:27:26,455 TRACE e.a.c.Exercise12_03 [main] Generated random int 1867 at 55
+2022-04-03 17:27:26,455 TRACE e.a.c.Exercise12_03 [main] Generated random int 6624 at 56
+2022-04-03 17:27:26,455 TRACE e.a.c.Exercise12_03 [main] Generated random int 8953 at 57
+2022-04-03 17:27:26,455 TRACE e.a.c.Exercise12_03 [main] Generated random int 6669 at 58
+2022-04-03 17:27:26,456 TRACE e.a.c.Exercise12_03 [main] Generated random int 8447 at 59
+2022-04-03 17:27:26,456 TRACE e.a.c.Exercise12_03 [main] Generated random int 8017 at 60
+2022-04-03 17:27:26,456 TRACE e.a.c.Exercise12_03 [main] Generated random int 8624 at 61
+2022-04-03 17:27:26,456 TRACE e.a.c.Exercise12_03 [main] Generated random int 8961 at 62
+2022-04-03 17:27:26,456 TRACE e.a.c.Exercise12_03 [main] Generated random int 4070 at 63
+2022-04-03 17:27:26,456 TRACE e.a.c.Exercise12_03 [main] Generated random int 8644 at 64
+2022-04-03 17:27:26,456 TRACE e.a.c.Exercise12_03 [main] Generated random int 2011 at 65
+2022-04-03 17:27:26,456 TRACE e.a.c.Exercise12_03 [main] Generated random int 1494 at 66
+2022-04-03 17:27:26,456 TRACE e.a.c.Exercise12_03 [main] Generated random int 4427 at 67
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 6774 at 68
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 3220 at 69
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 2966 at 70
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 1391 at 71
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 1544 at 72
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 2673 at 73
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 1833 at 74
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 1294 at 75
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 5877 at 76
+2022-04-03 17:27:26,457 TRACE e.a.c.Exercise12_03 [main] Generated random int 2528 at 77
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 7266 at 78
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 9626 at 79
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 1272 at 80
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 9049 at 81
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 997 at 82
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 84 at 83
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 8816 at 84
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 7665 at 85
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 7748 at 86
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 5339 at 87
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 9445 at 88
+2022-04-03 17:27:26,458 TRACE e.a.c.Exercise12_03 [main] Generated random int 4826 at 89
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 5748 at 90
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 6682 at 91
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 7847 at 92
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 4432 at 93
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 367 at 94
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 9785 at 95
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 8662 at 96
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 5610 at 97
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 3309 at 98
+2022-04-03 17:27:26,459 TRACE e.a.c.Exercise12_03 [main] Generated random int 4220 at 99
+2022-04-03 17:35:20,854 TRACE e.a.c.Exercise12_03 [main] Generated random int 8809 at 0
+2022-04-03 17:35:20,857 TRACE e.a.c.Exercise12_03 [main] Generated random int 2526 at 1
+2022-04-03 17:35:20,857 TRACE e.a.c.Exercise12_03 [main] Generated random int 3375 at 2
+2022-04-03 17:35:20,857 TRACE e.a.c.Exercise12_03 [main] Generated random int 7604 at 3
+2022-04-03 17:35:20,857 TRACE e.a.c.Exercise12_03 [main] Generated random int 2593 at 4
+2022-04-03 17:35:20,857 TRACE e.a.c.Exercise12_03 [main] Generated random int 7887 at 5
+2022-04-03 17:35:20,857 TRACE e.a.c.Exercise12_03 [main] Generated random int 2772 at 6
+2022-04-03 17:35:20,858 TRACE e.a.c.Exercise12_03 [main] Generated random int 3133 at 7
+2022-04-03 17:35:20,858 TRACE e.a.c.Exercise12_03 [main] Generated random int 8809 at 8
+2022-04-03 17:35:20,858 TRACE e.a.c.Exercise12_03 [main] Generated random int 1066 at 9
+2022-04-03 17:35:20,858 TRACE e.a.c.Exercise12_03 [main] Generated random int 6212 at 10
+2022-04-03 17:35:20,858 TRACE e.a.c.Exercise12_03 [main] Generated random int 7560 at 11
+2022-04-03 17:35:20,858 TRACE e.a.c.Exercise12_03 [main] Generated random int 2138 at 12
+2022-04-03 17:35:20,858 TRACE e.a.c.Exercise12_03 [main] Generated random int 7707 at 13
+2022-04-03 17:35:20,858 TRACE e.a.c.Exercise12_03 [main] Generated random int 8273 at 14
+2022-04-03 17:35:20,859 TRACE e.a.c.Exercise12_03 [main] Generated random int 6990 at 15
+2022-04-03 17:35:20,859 TRACE e.a.c.Exercise12_03 [main] Generated random int 8433 at 16
+2022-04-03 17:35:20,859 TRACE e.a.c.Exercise12_03 [main] Generated random int 4631 at 17
+2022-04-03 17:35:20,859 TRACE e.a.c.Exercise12_03 [main] Generated random int 7211 at 18
+2022-04-03 17:35:20,859 TRACE e.a.c.Exercise12_03 [main] Generated random int 8110 at 19
+2022-04-03 17:35:20,859 TRACE e.a.c.Exercise12_03 [main] Generated random int 4699 at 20
+2022-04-03 17:35:20,859 TRACE e.a.c.Exercise12_03 [main] Generated random int 8205 at 21
+2022-04-03 17:35:20,859 TRACE e.a.c.Exercise12_03 [main] Generated random int 8470 at 22
+2022-04-03 17:35:20,860 TRACE e.a.c.Exercise12_03 [main] Generated random int 3368 at 23
+2022-04-03 17:35:20,860 TRACE e.a.c.Exercise12_03 [main] Generated random int 2631 at 24
+2022-04-03 17:35:20,860 TRACE e.a.c.Exercise12_03 [main] Generated random int 5512 at 25
+2022-04-03 17:35:20,860 TRACE e.a.c.Exercise12_03 [main] Generated random int 4610 at 26
+2022-04-03 17:35:20,860 TRACE e.a.c.Exercise12_03 [main] Generated random int 2236 at 27
+2022-04-03 17:35:20,860 TRACE e.a.c.Exercise12_03 [main] Generated random int 1341 at 28
+2022-04-03 17:35:20,860 TRACE e.a.c.Exercise12_03 [main] Generated random int 3229 at 29
+2022-04-03 17:35:20,860 TRACE e.a.c.Exercise12_03 [main] Generated random int 5285 at 30
+2022-04-03 17:35:20,861 TRACE e.a.c.Exercise12_03 [main] Generated random int 7355 at 31
+2022-04-03 17:35:20,861 TRACE e.a.c.Exercise12_03 [main] Generated random int 7869 at 32
+2022-04-03 17:35:20,861 TRACE e.a.c.Exercise12_03 [main] Generated random int 6899 at 33
+2022-04-03 17:35:20,861 TRACE e.a.c.Exercise12_03 [main] Generated random int 9027 at 34
+2022-04-03 17:35:20,861 TRACE e.a.c.Exercise12_03 [main] Generated random int 3452 at 35
+2022-04-03 17:35:20,861 TRACE e.a.c.Exercise12_03 [main] Generated random int 9869 at 36
+2022-04-03 17:35:20,861 TRACE e.a.c.Exercise12_03 [main] Generated random int 6341 at 37
+2022-04-03 17:35:20,861 TRACE e.a.c.Exercise12_03 [main] Generated random int 4576 at 38
+2022-04-03 17:35:20,862 TRACE e.a.c.Exercise12_03 [main] Generated random int 6421 at 39
+2022-04-03 17:35:20,862 TRACE e.a.c.Exercise12_03 [main] Generated random int 3479 at 40
+2022-04-03 17:35:20,862 TRACE e.a.c.Exercise12_03 [main] Generated random int 1279 at 41
+2022-04-03 17:35:20,862 TRACE e.a.c.Exercise12_03 [main] Generated random int 3216 at 42
+2022-04-03 17:35:20,862 TRACE e.a.c.Exercise12_03 [main] Generated random int 9713 at 43
+2022-04-03 17:35:20,862 TRACE e.a.c.Exercise12_03 [main] Generated random int 770 at 44
+2022-04-03 17:35:20,862 TRACE e.a.c.Exercise12_03 [main] Generated random int 4985 at 45
+2022-04-03 17:35:20,862 TRACE e.a.c.Exercise12_03 [main] Generated random int 5175 at 46
+2022-04-03 17:35:20,863 TRACE e.a.c.Exercise12_03 [main] Generated random int 5284 at 47
+2022-04-03 17:35:20,863 TRACE e.a.c.Exercise12_03 [main] Generated random int 5422 at 48
+2022-04-03 17:35:20,863 TRACE e.a.c.Exercise12_03 [main] Generated random int 2720 at 49
+2022-04-03 17:35:20,863 TRACE e.a.c.Exercise12_03 [main] Generated random int 2519 at 50
+2022-04-03 17:35:20,863 TRACE e.a.c.Exercise12_03 [main] Generated random int 6740 at 51
+2022-04-03 17:35:20,863 TRACE e.a.c.Exercise12_03 [main] Generated random int 2310 at 52
+2022-04-03 17:35:20,863 TRACE e.a.c.Exercise12_03 [main] Generated random int 6041 at 53
+2022-04-03 17:35:20,863 TRACE e.a.c.Exercise12_03 [main] Generated random int 8174 at 54
+2022-04-03 17:35:20,864 TRACE e.a.c.Exercise12_03 [main] Generated random int 3028 at 55
+2022-04-03 17:35:20,864 TRACE e.a.c.Exercise12_03 [main] Generated random int 6540 at 56
+2022-04-03 17:35:20,864 TRACE e.a.c.Exercise12_03 [main] Generated random int 3687 at 57
+2022-04-03 17:35:20,864 TRACE e.a.c.Exercise12_03 [main] Generated random int 5725 at 58
+2022-04-03 17:35:20,864 TRACE e.a.c.Exercise12_03 [main] Generated random int 2068 at 59
+2022-04-03 17:35:20,864 TRACE e.a.c.Exercise12_03 [main] Generated random int 113 at 60
+2022-04-03 17:35:20,864 TRACE e.a.c.Exercise12_03 [main] Generated random int 4687 at 61
+2022-04-03 17:35:20,864 TRACE e.a.c.Exercise12_03 [main] Generated random int 7433 at 62
+2022-04-03 17:35:20,865 TRACE e.a.c.Exercise12_03 [main] Generated random int 5025 at 63
+2022-04-03 17:35:20,865 TRACE e.a.c.Exercise12_03 [main] Generated random int 9933 at 64
+2022-04-03 17:35:20,865 TRACE e.a.c.Exercise12_03 [main] Generated random int 9550 at 65
+2022-04-03 17:35:20,865 TRACE e.a.c.Exercise12_03 [main] Generated random int 8596 at 66
+2022-04-03 17:35:20,865 TRACE e.a.c.Exercise12_03 [main] Generated random int 3605 at 67
+2022-04-03 17:35:20,865 TRACE e.a.c.Exercise12_03 [main] Generated random int 9090 at 68
+2022-04-03 17:35:20,865 TRACE e.a.c.Exercise12_03 [main] Generated random int 987 at 69
+2022-04-03 17:35:20,865 TRACE e.a.c.Exercise12_03 [main] Generated random int 4783 at 70
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 4700 at 71
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 4529 at 72
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 6471 at 73
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 4748 at 74
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 8985 at 75
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 8062 at 76
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 1106 at 77
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 5909 at 78
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 2671 at 79
+2022-04-03 17:35:20,866 TRACE e.a.c.Exercise12_03 [main] Generated random int 4469 at 80
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 810 at 81
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 1144 at 82
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 4502 at 83
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 9929 at 84
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 2576 at 85
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 5377 at 86
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 3304 at 87
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 6404 at 88
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 729 at 89
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 7909 at 90
+2022-04-03 17:35:20,867 TRACE e.a.c.Exercise12_03 [main] Generated random int 4926 at 91
+2022-04-03 17:35:20,868 TRACE e.a.c.Exercise12_03 [main] Generated random int 2746 at 92
+2022-04-03 17:35:20,868 TRACE e.a.c.Exercise12_03 [main] Generated random int 5525 at 93
+2022-04-03 17:35:20,868 TRACE e.a.c.Exercise12_03 [main] Generated random int 1797 at 94
+2022-04-03 17:35:20,868 TRACE e.a.c.Exercise12_03 [main] Generated random int 1232 at 95
+2022-04-03 17:35:20,868 TRACE e.a.c.Exercise12_03 [main] Generated random int 1300 at 96
+2022-04-03 17:35:20,868 TRACE e.a.c.Exercise12_03 [main] Generated random int 3150 at 97
+2022-04-03 17:35:20,868 TRACE e.a.c.Exercise12_03 [main] Generated random int 4701 at 98
+2022-04-03 17:35:20,868 TRACE e.a.c.Exercise12_03 [main] Generated random int 7980 at 99
+2022-04-03 17:35:24,132 ERROR e.a.c.Exercise12_03 [main] Input out of bounds! java.lang.ArrayIndexOutOfBoundsException: Index 105 out of bounds for length 100
+2022-04-03 21:00:05,666 TRACE e.a.c.Exercise12_03 [main] Generated random int 2944 at 0
+2022-04-03 21:00:05,670 TRACE e.a.c.Exercise12_03 [main] Generated random int 8889 at 1
+2022-04-03 21:00:05,670 TRACE e.a.c.Exercise12_03 [main] Generated random int 5453 at 2
+2022-04-03 21:00:05,670 TRACE e.a.c.Exercise12_03 [main] Generated random int 8669 at 3
+2022-04-03 21:00:05,670 TRACE e.a.c.Exercise12_03 [main] Generated random int 3630 at 4
+2022-04-03 21:00:05,670 TRACE e.a.c.Exercise12_03 [main] Generated random int 432 at 5
+2022-04-03 21:00:05,671 TRACE e.a.c.Exercise12_03 [main] Generated random int 6117 at 6
+2022-04-03 21:00:05,671 TRACE e.a.c.Exercise12_03 [main] Generated random int 3740 at 7
+2022-04-03 21:00:05,671 TRACE e.a.c.Exercise12_03 [main] Generated random int 242 at 8
+2022-04-03 21:00:05,671 TRACE e.a.c.Exercise12_03 [main] Generated random int 776 at 9
+2022-04-03 21:00:05,671 TRACE e.a.c.Exercise12_03 [main] Generated random int 8331 at 10
+2022-04-03 21:00:05,671 TRACE e.a.c.Exercise12_03 [main] Generated random int 3185 at 11
+2022-04-03 21:00:05,671 TRACE e.a.c.Exercise12_03 [main] Generated random int 3251 at 12
+2022-04-03 21:00:05,672 TRACE e.a.c.Exercise12_03 [main] Generated random int 5989 at 13
+2022-04-03 21:00:05,672 TRACE e.a.c.Exercise12_03 [main] Generated random int 3344 at 14
+2022-04-03 21:00:05,672 TRACE e.a.c.Exercise12_03 [main] Generated random int 7688 at 15
+2022-04-03 21:00:05,672 TRACE e.a.c.Exercise12_03 [main] Generated random int 7876 at 16
+2022-04-03 21:00:05,672 TRACE e.a.c.Exercise12_03 [main] Generated random int 7378 at 17
+2022-04-03 21:00:05,672 TRACE e.a.c.Exercise12_03 [main] Generated random int 9435 at 18
+2022-04-03 21:00:05,672 TRACE e.a.c.Exercise12_03 [main] Generated random int 8357 at 19
+2022-04-03 21:00:05,673 TRACE e.a.c.Exercise12_03 [main] Generated random int 3575 at 20
+2022-04-03 21:00:05,673 TRACE e.a.c.Exercise12_03 [main] Generated random int 2229 at 21
+2022-04-03 21:00:05,673 TRACE e.a.c.Exercise12_03 [main] Generated random int 7814 at 22
+2022-04-03 21:00:05,673 TRACE e.a.c.Exercise12_03 [main] Generated random int 8330 at 23
+2022-04-03 21:00:05,673 TRACE e.a.c.Exercise12_03 [main] Generated random int 8906 at 24
+2022-04-03 21:00:05,673 TRACE e.a.c.Exercise12_03 [main] Generated random int 4717 at 25
+2022-04-03 21:00:05,673 TRACE e.a.c.Exercise12_03 [main] Generated random int 6309 at 26
+2022-04-03 21:00:05,674 TRACE e.a.c.Exercise12_03 [main] Generated random int 9737 at 27
+2022-04-03 21:00:05,674 TRACE e.a.c.Exercise12_03 [main] Generated random int 795 at 28
+2022-04-03 21:00:05,674 TRACE e.a.c.Exercise12_03 [main] Generated random int 6814 at 29
+2022-04-03 21:00:05,674 TRACE e.a.c.Exercise12_03 [main] Generated random int 5239 at 30
+2022-04-03 21:00:05,674 TRACE e.a.c.Exercise12_03 [main] Generated random int 770 at 31
+2022-04-03 21:00:05,674 TRACE e.a.c.Exercise12_03 [main] Generated random int 2448 at 32
+2022-04-03 21:00:05,675 TRACE e.a.c.Exercise12_03 [main] Generated random int 6489 at 33
+2022-04-03 21:00:05,675 TRACE e.a.c.Exercise12_03 [main] Generated random int 5203 at 34
+2022-04-03 21:00:05,675 TRACE e.a.c.Exercise12_03 [main] Generated random int 1490 at 35
+2022-04-03 21:00:05,675 TRACE e.a.c.Exercise12_03 [main] Generated random int 2084 at 36
+2022-04-03 21:00:05,675 TRACE e.a.c.Exercise12_03 [main] Generated random int 3209 at 37
+2022-04-03 21:00:05,675 TRACE e.a.c.Exercise12_03 [main] Generated random int 9648 at 38
+2022-04-03 21:00:05,675 TRACE e.a.c.Exercise12_03 [main] Generated random int 1115 at 39
+2022-04-03 21:00:05,675 TRACE e.a.c.Exercise12_03 [main] Generated random int 5482 at 40
+2022-04-03 21:00:05,676 TRACE e.a.c.Exercise12_03 [main] Generated random int 8820 at 41
+2022-04-03 21:00:05,676 TRACE e.a.c.Exercise12_03 [main] Generated random int 6035 at 42
+2022-04-03 21:00:05,676 TRACE e.a.c.Exercise12_03 [main] Generated random int 4021 at 43
+2022-04-03 21:00:05,676 TRACE e.a.c.Exercise12_03 [main] Generated random int 8937 at 44
+2022-04-03 21:00:05,676 TRACE e.a.c.Exercise12_03 [main] Generated random int 5255 at 45
+2022-04-03 21:00:05,676 TRACE e.a.c.Exercise12_03 [main] Generated random int 8164 at 46
+2022-04-03 21:00:05,676 TRACE e.a.c.Exercise12_03 [main] Generated random int 6454 at 47
+2022-04-03 21:00:05,676 TRACE e.a.c.Exercise12_03 [main] Generated random int 5624 at 48
+2022-04-03 21:00:05,676 TRACE e.a.c.Exercise12_03 [main] Generated random int 9194 at 49
+2022-04-03 21:00:05,677 TRACE e.a.c.Exercise12_03 [main] Generated random int 8809 at 50
+2022-04-03 21:00:05,677 TRACE e.a.c.Exercise12_03 [main] Generated random int 1023 at 51
+2022-04-03 21:00:05,677 TRACE e.a.c.Exercise12_03 [main] Generated random int 7601 at 52
+2022-04-03 21:00:05,677 TRACE e.a.c.Exercise12_03 [main] Generated random int 7801 at 53
+2022-04-03 21:00:05,677 TRACE e.a.c.Exercise12_03 [main] Generated random int 6183 at 54
+2022-04-03 21:00:05,677 TRACE e.a.c.Exercise12_03 [main] Generated random int 1477 at 55
+2022-04-03 21:00:05,677 TRACE e.a.c.Exercise12_03 [main] Generated random int 7740 at 56
+2022-04-03 21:00:05,677 TRACE e.a.c.Exercise12_03 [main] Generated random int 8957 at 57
+2022-04-03 21:00:05,678 TRACE e.a.c.Exercise12_03 [main] Generated random int 9969 at 58
+2022-04-03 21:00:05,678 TRACE e.a.c.Exercise12_03 [main] Generated random int 5963 at 59
+2022-04-03 21:00:05,678 TRACE e.a.c.Exercise12_03 [main] Generated random int 698 at 60
+2022-04-03 21:00:05,678 TRACE e.a.c.Exercise12_03 [main] Generated random int 4057 at 61
+2022-04-03 21:00:05,678 TRACE e.a.c.Exercise12_03 [main] Generated random int 2645 at 62
+2022-04-03 21:00:05,678 TRACE e.a.c.Exercise12_03 [main] Generated random int 2974 at 63
+2022-04-03 21:00:05,678 TRACE e.a.c.Exercise12_03 [main] Generated random int 9734 at 64
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 1317 at 65
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 9658 at 66
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 569 at 67
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 6644 at 68
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 2846 at 69
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 7649 at 70
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 6055 at 71
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 5369 at 72
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 9247 at 73
+2022-04-03 21:00:05,679 TRACE e.a.c.Exercise12_03 [main] Generated random int 3361 at 74
+2022-04-03 21:00:05,680 TRACE e.a.c.Exercise12_03 [main] Generated random int 333 at 75
+2022-04-03 21:00:05,680 TRACE e.a.c.Exercise12_03 [main] Generated random int 5961 at 76
+2022-04-03 21:00:05,680 TRACE e.a.c.Exercise12_03 [main] Generated random int 1394 at 77
+2022-04-03 21:00:05,680 TRACE e.a.c.Exercise12_03 [main] Generated random int 7127 at 78
+2022-04-03 21:00:05,680 TRACE e.a.c.Exercise12_03 [main] Generated random int 8332 at 79
+2022-04-03 21:00:05,680 TRACE e.a.c.Exercise12_03 [main] Generated random int 4471 at 80
+2022-04-03 21:00:05,680 TRACE e.a.c.Exercise12_03 [main] Generated random int 221 at 81
+2022-04-03 21:00:05,681 TRACE e.a.c.Exercise12_03 [main] Generated random int 3919 at 82
+2022-04-03 21:00:05,681 TRACE e.a.c.Exercise12_03 [main] Generated random int 4585 at 83
+2022-04-03 21:00:05,681 TRACE e.a.c.Exercise12_03 [main] Generated random int 6087 at 84
+2022-04-03 21:00:05,681 TRACE e.a.c.Exercise12_03 [main] Generated random int 1848 at 85
+2022-04-03 21:00:05,681 TRACE e.a.c.Exercise12_03 [main] Generated random int 1803 at 86
+2022-04-03 21:00:05,681 TRACE e.a.c.Exercise12_03 [main] Generated random int 888 at 87
+2022-04-03 21:00:05,681 TRACE e.a.c.Exercise12_03 [main] Generated random int 3369 at 88
+2022-04-03 21:00:05,681 TRACE e.a.c.Exercise12_03 [main] Generated random int 7172 at 89
+2022-04-03 21:00:05,682 TRACE e.a.c.Exercise12_03 [main] Generated random int 2366 at 90
+2022-04-03 21:00:05,682 TRACE e.a.c.Exercise12_03 [main] Generated random int 1173 at 91
+2022-04-03 21:00:05,682 TRACE e.a.c.Exercise12_03 [main] Generated random int 8782 at 92
+2022-04-03 21:00:05,682 TRACE e.a.c.Exercise12_03 [main] Generated random int 2170 at 93
+2022-04-03 21:00:05,682 TRACE e.a.c.Exercise12_03 [main] Generated random int 167 at 94
+2022-04-03 21:00:05,682 TRACE e.a.c.Exercise12_03 [main] Generated random int 7303 at 95
+2022-04-03 21:00:05,682 TRACE e.a.c.Exercise12_03 [main] Generated random int 919 at 96
+2022-04-03 21:00:05,682 TRACE e.a.c.Exercise12_03 [main] Generated random int 7610 at 97
+2022-04-03 21:00:05,682 TRACE e.a.c.Exercise12_03 [main] Generated random int 8599 at 98
+2022-04-03 21:00:05,683 TRACE e.a.c.Exercise12_03 [main] Generated random int 8280 at 99
+2022-04-03 21:00:08,517 ERROR e.a.c.Exercise12_03 [main] Input out of bounds! java.lang.ArrayIndexOutOfBoundsException: Index 999 out of bounds for length 100
+2022-04-03 21:03:38,159 TRACE e.a.c.Exercise12_03 [main] Generated random int 9184 at 0
+2022-04-03 21:03:38,161 TRACE e.a.c.Exercise12_03 [main] Generated random int 4494 at 1
+2022-04-03 21:03:38,161 TRACE e.a.c.Exercise12_03 [main] Generated random int 4903 at 2
+2022-04-03 21:03:38,161 TRACE e.a.c.Exercise12_03 [main] Generated random int 5948 at 3
+2022-04-03 21:03:38,161 TRACE e.a.c.Exercise12_03 [main] Generated random int 6227 at 4
+2022-04-03 21:03:38,161 TRACE e.a.c.Exercise12_03 [main] Generated random int 4458 at 5
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 9193 at 6
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 8485 at 7
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 8780 at 8
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 6087 at 9
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 7224 at 10
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 5849 at 11
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 879 at 12
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 1240 at 13
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 4123 at 14
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 7173 at 15
+2022-04-03 21:03:38,162 TRACE e.a.c.Exercise12_03 [main] Generated random int 539 at 16
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 1278 at 17
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 196 at 18
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 5595 at 19
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 1509 at 20
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 5936 at 21
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 6224 at 22
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 6526 at 23
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 3713 at 24
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 992 at 25
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 2984 at 26
+2022-04-03 21:03:38,163 TRACE e.a.c.Exercise12_03 [main] Generated random int 8033 at 27
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 7677 at 28
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 826 at 29
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 5654 at 30
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 4347 at 31
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 3403 at 32
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 9398 at 33
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 9077 at 34
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 7352 at 35
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 2154 at 36
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 5914 at 37
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 3004 at 38
+2022-04-03 21:03:38,164 TRACE e.a.c.Exercise12_03 [main] Generated random int 5079 at 39
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 363 at 40
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 9495 at 41
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 7380 at 42
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 658 at 43
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 8520 at 44
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 572 at 45
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 6472 at 46
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 9992 at 47
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 4291 at 48
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 5350 at 49
+2022-04-03 21:03:38,165 TRACE e.a.c.Exercise12_03 [main] Generated random int 7272 at 50
+2022-04-03 21:03:38,166 TRACE e.a.c.Exercise12_03 [main] Generated random int 1470 at 51
+2022-04-03 21:03:38,166 TRACE e.a.c.Exercise12_03 [main] Generated random int 8350 at 52
+2022-04-03 21:03:38,166 TRACE e.a.c.Exercise12_03 [main] Generated random int 3743 at 53
+2022-04-03 21:03:38,166 TRACE e.a.c.Exercise12_03 [main] Generated random int 1910 at 54
+2022-04-03 21:03:38,166 TRACE e.a.c.Exercise12_03 [main] Generated random int 6482 at 55
+2022-04-03 21:03:38,166 TRACE e.a.c.Exercise12_03 [main] Generated random int 3447 at 56
+2022-04-03 21:03:38,166 TRACE e.a.c.Exercise12_03 [main] Generated random int 431 at 57
+2022-04-03 21:03:38,166 TRACE e.a.c.Exercise12_03 [main] Generated random int 6087 at 58
+2022-04-03 21:03:38,166 TRACE e.a.c.Exercise12_03 [main] Generated random int 5150 at 59
+2022-04-03 21:03:38,167 TRACE e.a.c.Exercise12_03 [main] Generated random int 2100 at 60
+2022-04-03 21:03:38,167 TRACE e.a.c.Exercise12_03 [main] Generated random int 3365 at 61
+2022-04-03 21:03:38,167 TRACE e.a.c.Exercise12_03 [main] Generated random int 5489 at 62
+2022-04-03 21:03:38,167 TRACE e.a.c.Exercise12_03 [main] Generated random int 7782 at 63
+2022-04-03 21:03:38,167 TRACE e.a.c.Exercise12_03 [main] Generated random int 5946 at 64
+2022-04-03 21:03:38,168 TRACE e.a.c.Exercise12_03 [main] Generated random int 3920 at 65
+2022-04-03 21:03:38,168 TRACE e.a.c.Exercise12_03 [main] Generated random int 7 at 66
+2022-04-03 21:03:38,168 TRACE e.a.c.Exercise12_03 [main] Generated random int 8834 at 67
+2022-04-03 21:03:38,168 TRACE e.a.c.Exercise12_03 [main] Generated random int 280 at 68
+2022-04-03 21:03:38,168 TRACE e.a.c.Exercise12_03 [main] Generated random int 8189 at 69
+2022-04-03 21:03:38,168 TRACE e.a.c.Exercise12_03 [main] Generated random int 1190 at 70
+2022-04-03 21:03:38,168 TRACE e.a.c.Exercise12_03 [main] Generated random int 6863 at 71
+2022-04-03 21:03:38,168 TRACE e.a.c.Exercise12_03 [main] Generated random int 592 at 72
+2022-04-03 21:03:38,168 TRACE e.a.c.Exercise12_03 [main] Generated random int 9444 at 73
+2022-04-03 21:03:38,169 TRACE e.a.c.Exercise12_03 [main] Generated random int 1839 at 74
+2022-04-03 21:03:38,169 TRACE e.a.c.Exercise12_03 [main] Generated random int 881 at 75
+2022-04-03 21:03:38,169 TRACE e.a.c.Exercise12_03 [main] Generated random int 4025 at 76
+2022-04-03 21:03:38,169 TRACE e.a.c.Exercise12_03 [main] Generated random int 7647 at 77
+2022-04-03 21:03:38,169 TRACE e.a.c.Exercise12_03 [main] Generated random int 7865 at 78
+2022-04-03 21:03:38,169 TRACE e.a.c.Exercise12_03 [main] Generated random int 819 at 79
+2022-04-03 21:03:38,169 TRACE e.a.c.Exercise12_03 [main] Generated random int 7585 at 80
+2022-04-03 21:03:38,169 TRACE e.a.c.Exercise12_03 [main] Generated random int 3123 at 81
+2022-04-03 21:03:38,170 TRACE e.a.c.Exercise12_03 [main] Generated random int 1661 at 82
+2022-04-03 21:03:38,170 TRACE e.a.c.Exercise12_03 [main] Generated random int 7391 at 83
+2022-04-03 21:03:38,170 TRACE e.a.c.Exercise12_03 [main] Generated random int 6661 at 84
+2022-04-03 21:03:38,170 TRACE e.a.c.Exercise12_03 [main] Generated random int 7933 at 85
+2022-04-03 21:03:38,170 TRACE e.a.c.Exercise12_03 [main] Generated random int 3074 at 86
+2022-04-03 21:03:38,171 TRACE e.a.c.Exercise12_03 [main] Generated random int 4532 at 87
+2022-04-03 21:03:38,171 TRACE e.a.c.Exercise12_03 [main] Generated random int 1971 at 88
+2022-04-03 21:03:38,171 TRACE e.a.c.Exercise12_03 [main] Generated random int 357 at 89
+2022-04-03 21:03:38,171 TRACE e.a.c.Exercise12_03 [main] Generated random int 8793 at 90
+2022-04-03 21:03:38,171 TRACE e.a.c.Exercise12_03 [main] Generated random int 5834 at 91
+2022-04-03 21:03:38,171 TRACE e.a.c.Exercise12_03 [main] Generated random int 372 at 92
+2022-04-03 21:03:38,171 TRACE e.a.c.Exercise12_03 [main] Generated random int 4970 at 93
+2022-04-03 21:03:38,172 TRACE e.a.c.Exercise12_03 [main] Generated random int 3450 at 94
+2022-04-03 21:03:38,172 TRACE e.a.c.Exercise12_03 [main] Generated random int 4888 at 95
+2022-04-03 21:03:38,172 TRACE e.a.c.Exercise12_03 [main] Generated random int 5176 at 96
+2022-04-03 21:03:38,172 TRACE e.a.c.Exercise12_03 [main] Generated random int 3255 at 97
+2022-04-03 21:03:38,172 TRACE e.a.c.Exercise12_03 [main] Generated random int 6096 at 98
+2022-04-03 21:03:38,172 TRACE e.a.c.Exercise12_03 [main] Generated random int 8309 at 99
+2022-04-03 21:04:43,172 TRACE e.a.c.Exercise12_03 [main] Generated random int 8876 at 0
+2022-04-03 21:04:43,175 TRACE e.a.c.Exercise12_03 [main] Generated random int 9192 at 1
+2022-04-03 21:04:43,175 TRACE e.a.c.Exercise12_03 [main] Generated random int 5736 at 2
+2022-04-03 21:04:43,176 TRACE e.a.c.Exercise12_03 [main] Generated random int 9683 at 3
+2022-04-03 21:04:43,176 TRACE e.a.c.Exercise12_03 [main] Generated random int 5027 at 4
+2022-04-03 21:04:43,176 TRACE e.a.c.Exercise12_03 [main] Generated random int 6908 at 5
+2022-04-03 21:04:43,176 TRACE e.a.c.Exercise12_03 [main] Generated random int 7354 at 6
+2022-04-03 21:04:43,176 TRACE e.a.c.Exercise12_03 [main] Generated random int 2046 at 7
+2022-04-03 21:04:43,176 TRACE e.a.c.Exercise12_03 [main] Generated random int 2976 at 8
+2022-04-03 21:04:43,177 TRACE e.a.c.Exercise12_03 [main] Generated random int 7592 at 9
+2022-04-03 21:04:43,177 TRACE e.a.c.Exercise12_03 [main] Generated random int 5709 at 10
+2022-04-03 21:04:43,177 TRACE e.a.c.Exercise12_03 [main] Generated random int 7687 at 11
+2022-04-03 21:04:43,177 TRACE e.a.c.Exercise12_03 [main] Generated random int 7742 at 12
+2022-04-03 21:04:43,177 TRACE e.a.c.Exercise12_03 [main] Generated random int 5443 at 13
+2022-04-03 21:04:43,178 TRACE e.a.c.Exercise12_03 [main] Generated random int 206 at 14
+2022-04-03 21:04:43,178 TRACE e.a.c.Exercise12_03 [main] Generated random int 9663 at 15
+2022-04-03 21:04:43,178 TRACE e.a.c.Exercise12_03 [main] Generated random int 4744 at 16
+2022-04-03 21:04:43,178 TRACE e.a.c.Exercise12_03 [main] Generated random int 3184 at 17
+2022-04-03 21:04:43,178 TRACE e.a.c.Exercise12_03 [main] Generated random int 4517 at 18
+2022-04-03 21:04:43,178 TRACE e.a.c.Exercise12_03 [main] Generated random int 3918 at 19
+2022-04-03 21:04:43,179 TRACE e.a.c.Exercise12_03 [main] Generated random int 5944 at 20
+2022-04-03 21:04:43,179 TRACE e.a.c.Exercise12_03 [main] Generated random int 5156 at 21
+2022-04-03 21:04:43,179 TRACE e.a.c.Exercise12_03 [main] Generated random int 9544 at 22
+2022-04-03 21:04:43,179 TRACE e.a.c.Exercise12_03 [main] Generated random int 5849 at 23
+2022-04-03 21:04:43,179 TRACE e.a.c.Exercise12_03 [main] Generated random int 4234 at 24
+2022-04-03 21:04:43,179 TRACE e.a.c.Exercise12_03 [main] Generated random int 2446 at 25
+2022-04-03 21:04:43,179 TRACE e.a.c.Exercise12_03 [main] Generated random int 1664 at 26
+2022-04-03 21:04:43,180 TRACE e.a.c.Exercise12_03 [main] Generated random int 8681 at 27
+2022-04-03 21:04:43,180 TRACE e.a.c.Exercise12_03 [main] Generated random int 8187 at 28
+2022-04-03 21:04:43,180 TRACE e.a.c.Exercise12_03 [main] Generated random int 6927 at 29
+2022-04-03 21:04:43,180 TRACE e.a.c.Exercise12_03 [main] Generated random int 1996 at 30
+2022-04-03 21:04:43,180 TRACE e.a.c.Exercise12_03 [main] Generated random int 6792 at 31
+2022-04-03 21:04:43,180 TRACE e.a.c.Exercise12_03 [main] Generated random int 2173 at 32
+2022-04-03 21:04:43,180 TRACE e.a.c.Exercise12_03 [main] Generated random int 2445 at 33
+2022-04-03 21:04:43,181 TRACE e.a.c.Exercise12_03 [main] Generated random int 7839 at 34
+2022-04-03 21:04:43,181 TRACE e.a.c.Exercise12_03 [main] Generated random int 7362 at 35
+2022-04-03 21:04:43,181 TRACE e.a.c.Exercise12_03 [main] Generated random int 7388 at 36
+2022-04-03 21:04:43,181 TRACE e.a.c.Exercise12_03 [main] Generated random int 2989 at 37
+2022-04-03 21:04:43,181 TRACE e.a.c.Exercise12_03 [main] Generated random int 5773 at 38
+2022-04-03 21:04:43,181 TRACE e.a.c.Exercise12_03 [main] Generated random int 9289 at 39
+2022-04-03 21:04:43,181 TRACE e.a.c.Exercise12_03 [main] Generated random int 7899 at 40
+2022-04-03 21:04:43,181 TRACE e.a.c.Exercise12_03 [main] Generated random int 9712 at 41
+2022-04-03 21:04:43,182 TRACE e.a.c.Exercise12_03 [main] Generated random int 6977 at 42
+2022-04-03 21:04:43,182 TRACE e.a.c.Exercise12_03 [main] Generated random int 9167 at 43
+2022-04-03 21:04:43,182 TRACE e.a.c.Exercise12_03 [main] Generated random int 1952 at 44
+2022-04-03 21:04:43,182 TRACE e.a.c.Exercise12_03 [main] Generated random int 886 at 45
+2022-04-03 21:04:43,182 TRACE e.a.c.Exercise12_03 [main] Generated random int 9279 at 46
+2022-04-03 21:04:43,182 TRACE e.a.c.Exercise12_03 [main] Generated random int 325 at 47
+2022-04-03 21:04:43,183 TRACE e.a.c.Exercise12_03 [main] Generated random int 2975 at 48
+2022-04-03 21:04:43,184 TRACE e.a.c.Exercise12_03 [main] Generated random int 1489 at 49
+2022-04-03 21:04:43,184 TRACE e.a.c.Exercise12_03 [main] Generated random int 7127 at 50
+2022-04-03 21:04:43,184 TRACE e.a.c.Exercise12_03 [main] Generated random int 2392 at 51
+2022-04-03 21:04:43,185 TRACE e.a.c.Exercise12_03 [main] Generated random int 6494 at 52
+2022-04-03 21:04:43,185 TRACE e.a.c.Exercise12_03 [main] Generated random int 2027 at 53
+2022-04-03 21:04:43,186 TRACE e.a.c.Exercise12_03 [main] Generated random int 269 at 54
+2022-04-03 21:04:43,186 TRACE e.a.c.Exercise12_03 [main] Generated random int 5697 at 55
+2022-04-03 21:04:43,187 TRACE e.a.c.Exercise12_03 [main] Generated random int 8954 at 56
+2022-04-03 21:04:43,187 TRACE e.a.c.Exercise12_03 [main] Generated random int 9395 at 57
+2022-04-03 21:04:43,187 TRACE e.a.c.Exercise12_03 [main] Generated random int 4231 at 58
+2022-04-03 21:04:43,187 TRACE e.a.c.Exercise12_03 [main] Generated random int 6884 at 59
+2022-04-03 21:04:43,187 TRACE e.a.c.Exercise12_03 [main] Generated random int 1892 at 60
+2022-04-03 21:04:43,188 TRACE e.a.c.Exercise12_03 [main] Generated random int 6103 at 61
+2022-04-03 21:04:43,188 TRACE e.a.c.Exercise12_03 [main] Generated random int 896 at 62
+2022-04-03 21:04:43,188 TRACE e.a.c.Exercise12_03 [main] Generated random int 9605 at 63
+2022-04-03 21:04:43,188 TRACE e.a.c.Exercise12_03 [main] Generated random int 271 at 64
+2022-04-03 21:04:43,188 TRACE e.a.c.Exercise12_03 [main] Generated random int 8054 at 65
+2022-04-03 21:04:43,188 TRACE e.a.c.Exercise12_03 [main] Generated random int 5415 at 66
+2022-04-03 21:04:43,189 TRACE e.a.c.Exercise12_03 [main] Generated random int 6858 at 67
+2022-04-03 21:04:43,189 TRACE e.a.c.Exercise12_03 [main] Generated random int 6889 at 68
+2022-04-03 21:04:43,189 TRACE e.a.c.Exercise12_03 [main] Generated random int 5175 at 69
+2022-04-03 21:04:43,189 TRACE e.a.c.Exercise12_03 [main] Generated random int 6523 at 70
+2022-04-03 21:04:43,189 TRACE e.a.c.Exercise12_03 [main] Generated random int 9613 at 71
+2022-04-03 21:04:43,189 TRACE e.a.c.Exercise12_03 [main] Generated random int 5743 at 72
+2022-04-03 21:04:43,189 TRACE e.a.c.Exercise12_03 [main] Generated random int 3710 at 73
+2022-04-03 21:04:43,189 TRACE e.a.c.Exercise12_03 [main] Generated random int 897 at 74
+2022-04-03 21:04:43,189 TRACE e.a.c.Exercise12_03 [main] Generated random int 9739 at 75
+2022-04-03 21:04:43,190 TRACE e.a.c.Exercise12_03 [main] Generated random int 5978 at 76
+2022-04-03 21:04:43,190 TRACE e.a.c.Exercise12_03 [main] Generated random int 3711 at 77
+2022-04-03 21:04:43,190 TRACE e.a.c.Exercise12_03 [main] Generated random int 8628 at 78
+2022-04-03 21:04:43,190 TRACE e.a.c.Exercise12_03 [main] Generated random int 3909 at 79
+2022-04-03 21:04:43,190 TRACE e.a.c.Exercise12_03 [main] Generated random int 4639 at 80
+2022-04-03 21:04:43,190 TRACE e.a.c.Exercise12_03 [main] Generated random int 388 at 81
+2022-04-03 21:04:43,190 TRACE e.a.c.Exercise12_03 [main] Generated random int 6107 at 82
+2022-04-03 21:04:43,190 TRACE e.a.c.Exercise12_03 [main] Generated random int 9187 at 83
+2022-04-03 21:04:43,191 TRACE e.a.c.Exercise12_03 [main] Generated random int 790 at 84
+2022-04-03 21:04:43,191 TRACE e.a.c.Exercise12_03 [main] Generated random int 3369 at 85
+2022-04-03 21:04:43,191 TRACE e.a.c.Exercise12_03 [main] Generated random int 4662 at 86
+2022-04-03 21:04:43,191 TRACE e.a.c.Exercise12_03 [main] Generated random int 262 at 87
+2022-04-03 21:04:43,191 TRACE e.a.c.Exercise12_03 [main] Generated random int 5822 at 88
+2022-04-03 21:04:43,191 TRACE e.a.c.Exercise12_03 [main] Generated random int 3616 at 89
+2022-04-03 21:04:43,191 TRACE e.a.c.Exercise12_03 [main] Generated random int 8126 at 90
+2022-04-03 21:04:43,191 TRACE e.a.c.Exercise12_03 [main] Generated random int 2968 at 91
+2022-04-03 21:04:43,192 TRACE e.a.c.Exercise12_03 [main] Generated random int 4719 at 92
+2022-04-03 21:04:43,192 TRACE e.a.c.Exercise12_03 [main] Generated random int 3805 at 93
+2022-04-03 21:04:43,192 TRACE e.a.c.Exercise12_03 [main] Generated random int 218 at 94
+2022-04-03 21:04:43,192 TRACE e.a.c.Exercise12_03 [main] Generated random int 8602 at 95
+2022-04-03 21:04:43,192 TRACE e.a.c.Exercise12_03 [main] Generated random int 916 at 96
+2022-04-03 21:04:43,192 TRACE e.a.c.Exercise12_03 [main] Generated random int 4271 at 97
+2022-04-03 21:04:43,192 TRACE e.a.c.Exercise12_03 [main] Generated random int 3041 at 98
+2022-04-03 21:04:43,192 TRACE e.a.c.Exercise12_03 [main] Generated random int 8846 at 99
+2022-04-03 21:04:46,252 ERROR e.a.c.Exercise12_03 [main] Input out of bounds! java.lang.ArrayIndexOutOfBoundsException: Index 100 out of bounds for length 100

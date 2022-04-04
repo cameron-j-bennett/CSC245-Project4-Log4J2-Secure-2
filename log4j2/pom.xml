@@ -12,7 +12,11 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <log4j.version>2.11.2</log4j.version>
+        <!--
+            Updated log4j to version 2.17.1, as versions from 2.0-beta9 to 2.14.1 have a critical RCE vulnerability.
+            Read: https://www.cisa.gov/uscert/apache-log4j-vulnerability-guidance
+        -->
+        <log4j.version>2.17.1</log4j.version>
         <disruptor.version>3.4.2</disruptor.version>
         <jackson.version>2.9.8</jackson.version>
     </properties>
